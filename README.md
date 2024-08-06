@@ -8,7 +8,6 @@ This project is an e-commerce site built using Redux Thunk. It is developed with
 - Increasing and decreasing the quantity of products in the cart
 - Calculating the total price
 
-
 ## Contributing
 If you want to contribute, please open an issue first to discuss what you would like to change. After discussing the changes, you can create a pull request.
 
@@ -17,3 +16,6 @@ If you want to contribute, please open an issue first to discuss what you would 
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Open a pull request
+
+## Live Demo
+Check out the live demo [here](https://shopiverse-thunk.netlify.app/).
